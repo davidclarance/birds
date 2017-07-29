@@ -1,5 +1,5 @@
-# Welcome to my bird-lists
+# David's bird lists
 
-I love birds and want to keep all my bird lists in one place. 
+I like birds and like to keep a list of birds I see at different places. 
 
-Here's the link to the website for this repo: [Put link here]
+Here's the website for my lists: 
