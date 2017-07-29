@@ -10,7 +10,7 @@ link-citations: yes
 github-repo: davidclarance/birds
 url: 
 description: "A repo to maintain my bird lists."
-cover-image: "pied_kingfisher.jpeg"
+cover-image: "images/pied_kingfisher.png"
 ---
 
 # Preface {-}

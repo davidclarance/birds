@@ -12,7 +12,7 @@
   <meta property="og:title" content="David’s Bird Lists" />
   <meta property="og:type" content="book" />
   
-  <meta property="og:image" content="pied_kingfisher.jpeg" />
+  <meta property="og:image" content="images/pied_kingfisher.png" />
   <meta property="og:description" content="A repo to maintain my bird lists." />
   <meta name="github-repo" content="davidclarance/birds" />
 
@@ -20,7 +20,7 @@
   <meta name="twitter:title" content="David’s Bird Lists" />
   
   <meta name="twitter:description" content="A repo to maintain my bird lists." />
-  <meta name="twitter:image" content="pied_kingfisher.jpeg" />
+  <meta name="twitter:image" content="images/pied_kingfisher.png" />
 
 <meta name="author" content="David Clarance">
 
@@ -66,7 +66,9 @@
 
 <li class="divider"></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a></li>
-<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a><ul>
+<li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#introduction-2"><i class="fa fa-check"></i><b>1.1</b> Introduction-2</a></li>
+</ul></li>
 <li class="chapter" data-level="2" data-path="diving-in.html"><a href="diving-in.html"><i class="fa fa-check"></i><b>2</b> Diving In</a></li>
 <li class="chapter" data-level="3" data-path="technical-details.html"><a href="technical-details.html"><i class="fa fa-check"></i><b>3</b> Technical Details</a></li>
 <li class="divider"></li>
@@ -92,7 +94,11 @@
 <div id="introduction" class="section level1">
 <h1><span class="header-section-number">List: 1</span> Introduction</h1>
 <p>This is the first real chapter.</p>
+<div id="introduction-2" class="section level2">
+<h2><span class="header-section-number">1.1</span> Introduction-2</h2>
+<p>This is the second chapter in the introduction.</p>
 
+</div>
 </div>
             </section>
 
@@ -114,9 +120,9 @@
 require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
-"facebook": true,
-"twitter": true,
+"github": true,
+"facebook": false,
+"twitter": false,
 "google": false,
 "weibo": false,
 "instapper": false,
@@ -128,14 +134,15 @@ gitbook.start({
 "family": "sans",
 "size": 2
 },
-"edit": {
-"link": null,
-"text": null
-},
-"download": null,
+"edit": null,
+"download": ["David's Bird Lists.pdf", "David's Bird Lists.epub", "David's Bird Lists.mobi"],
 "toc": {
 "collapse": "subsection"
-}
+},
+"toolbar": {
+"position": "fixed"
+},
+"search": true
 });
 });
 </script>

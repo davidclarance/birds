@@ -12,7 +12,7 @@
   <meta property="og:title" content="David’s Bird Lists" />
   <meta property="og:type" content="book" />
   
-  <meta property="og:image" content="pied_kingfisher.jpeg" />
+  <meta property="og:image" content="images/pied_kingfisher.png" />
   <meta property="og:description" content="A repo to maintain my bird lists." />
   <meta name="github-repo" content="davidclarance/birds" />
 
@@ -20,7 +20,7 @@
   <meta name="twitter:title" content="David’s Bird Lists" />
   
   <meta name="twitter:description" content="A repo to maintain my bird lists." />
-  <meta name="twitter:image" content="pied_kingfisher.jpeg" />
+  <meta name="twitter:image" content="images/pied_kingfisher.png" />
 
 <meta name="author" content="David Clarance">
 
@@ -32,7 +32,7 @@
   
   
 
-<link rel="next" href="introduction.html">
+<link rel="next" href="life-list.html">
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -66,9 +66,13 @@
 
 <li class="divider"></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a></li>
-<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a></li>
-<li class="chapter" data-level="2" data-path="diving-in.html"><a href="diving-in.html"><i class="fa fa-check"></i><b>2</b> Diving In</a></li>
-<li class="chapter" data-level="3" data-path="technical-details.html"><a href="technical-details.html"><i class="fa fa-check"></i><b>3</b> Technical Details</a></li>
+<li class="chapter" data-level="1" data-path="life-list.html"><a href="life-list.html"><i class="fa fa-check"></i><b>1</b> Life List</a></li>
+<li class="chapter" data-level="2" data-path="specific-trips-lists.html"><a href="specific-trips-lists.html"><i class="fa fa-check"></i><b>2</b> Specific Trips Lists</a></li>
+<li class="chapter" data-level="3" data-path="specific-locations-lists.html"><a href="specific-locations-lists.html"><i class="fa fa-check"></i><b>3</b> Specific Locations Lists</a><ul>
+<li class="chapter" data-level="3.1" data-path="specific-locations-lists.html"><a href="specific-locations-lists.html#kunde-road"><i class="fa fa-check"></i><b>3.1</b> Kunde Road</a></li>
+<li class="chapter" data-level="3.2" data-path="specific-locations-lists.html"><a href="specific-locations-lists.html#busara-center"><i class="fa fa-check"></i><b>3.2</b> Busara Center</a></li>
+<li class="chapter" data-level="3.3" data-path="specific-locations-lists.html"><a href="specific-locations-lists.html#karura-forest"><i class="fa fa-check"></i><b>3.3</b> Karura Forest</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -97,7 +101,7 @@
 <div id="preface" class="section level1 unnumbered">
 <h1>Preface</h1>
 <p>I like birds and spend a bunch of free time staring at birds. I created this book to store all my bird lists.</p>
-<p>If you’re interested in birds and are based in Kenya please consider using the Kenya BirdLasser app. It helps you document sighting but provides important inputs to conservation and scientific efforts. You can download the app <a href="https://play.google.com/store/apps/details?id=com.lasser.birdlasserkenya&amp;hl=en">here</a> and check out all the cool stuff they do <a href="http://kenyabirdmap.adu.org.za/">here</a>.</p>
+<p>If you’re interested in birds and are based in Kenya please consider using the <strong>Kenya BirdLasser app</strong>. It helps you document sighting while providing important inputs to conservation and scientific efforts. You can download the app <a href="https://play.google.com/store/apps/details?id=com.lasser.birdlasserkenya&amp;hl=en">here</a> and check out all the cool stuff they do <a href="http://kenyabirdmap.adu.org.za/">here</a>.</p>
 
 </div>
             </section>
@@ -106,7 +110,7 @@
         </div>
       </div>
 
-<a href="introduction.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="life-list.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -120,9 +124,9 @@
 require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": {
-"github": false,
-"facebook": true,
-"twitter": true,
+"github": true,
+"facebook": false,
+"twitter": false,
 "google": false,
 "weibo": false,
 "instapper": false,
@@ -134,14 +138,15 @@ gitbook.start({
 "family": "sans",
 "size": 2
 },
-"edit": {
-"link": null,
-"text": null
-},
-"download": null,
+"edit": null,
+"download": ["David's Bird Lists.pdf", "David's Bird Lists.epub", "David's Bird Lists.mobi"],
 "toc": {
 "collapse": "subsection"
-}
+},
+"toolbar": {
+"position": "fixed"
+},
+"search": true
 });
 });
 </script>

@@ -1,7 +1,8 @@
 book_filename: "David's Bird Lists"
-chapter_name: "List: "
+chapter_name: ""
 repo: https://github.com/davidclarance/birds
 output_dir: "docs"
 rmd_files: 
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
+
