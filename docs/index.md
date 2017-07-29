@@ -1,17 +1,21 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "David's Bird Lists"
+author: "David Clarance"
+date: "Last updated: 2017-07-29"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: davidclarance/birds
+url: 
+description: "A repo to maintain my bird lists."
+cover-image: pied_kingfisher.jpeg
 ---
 
 # Preface {-}
 
-This is the very first part of the book.
+I like birds and spend a bunch of free time staring at birds. I created this book to store all my bird lists. 
+
+If you're interested in birds and are based in Kenya please consider using the Kenya BirdLasser app. It helps you document sighting but provides important inputs to conservation and scientific efforts. You can download the app [here](https://play.google.com/store/apps/details?id=com.lasser.birdlasserkenya&hl=en) and check out all the cool stuff they do [here](http://kenyabirdmap.adu.org.za/).
+

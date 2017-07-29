@@ -1,5 +1,6 @@
 [
-["index.html", "A Minimal Bookdown Book Preface", " A Minimal Bookdown Book Sean Kross 2016-12-09 Preface This is the very first part of the book. "],
-["introduction.html", "Chapter 1 Introduction", " Chapter 1 Introduction This is the first real chapter. "],
-["diving-in.html", "Chapter 2 Diving In", " Chapter 2 Diving In Now let’s talk details. "]
+["index.html", "David’s Bird Lists Preface", " David’s Bird Lists David Clarance Last updated: 2017-07-29 Preface I like birds and spend a bunch of free time staring at birds. I created this book to store all my bird lists. If you’re interested in birds and are based in Kenya please consider using the Kenya BirdLasser app. It helps you document sighting but provides important inputs to conservation and scientific efforts. You can download the app here and check out all the cool stuff they do here. "],
+["introduction.html", "List: 1 Introduction", " List: 1 Introduction This is the first real chapter. "],
+["diving-in.html", "List: 2 Diving In", " List: 2 Diving In Now let’s talk details. "],
+["technical-details.html", "List: 3 Technical Details", " List: 3 Technical Details Now I’ll teach you some crazy math, but I need to work it out first… "]
 ]
