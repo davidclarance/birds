@@ -15,7 +15,7 @@ cover-image: "images/pied_kingfisher.png"
 
 # Preface {-}
 
-I like birds and spend a bunch of free time staring at birds. I created this book to store all my bird lists. 
+I like birds and spend a bunch of my free time staring at birds. I created this book to store lists of birds I've seen.  
 
 If you're interested in birds and are based in Kenya please consider using the **Kenya BirdLasser app**. It helps you document sighting while providing important inputs to conservation and scientific efforts. You can download the app [here](https://play.google.com/store/apps/details?id=com.lasser.birdlasserkenya&hl=en) and check out all the cool stuff they do [here](http://kenyabirdmap.adu.org.za/).
 

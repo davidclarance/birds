@@ -2,6 +2,13 @@
 
 This section contains lists of birds I've found in locations I visit on a regular basis.
 
+```{r include=FALSE, echo=FALSE}
+library(tidyverse)
+library(readxl)
+library(xtable)
+```
+
+
 
 ## Kunde Road
 
@@ -11,6 +18,19 @@ List of birds I've found on [Kunde Road](https://goo.gl/maps/23BTYjYjdHU2).
 ## Busara Center
 
 List of birds I've found near the [Busara Center for Behavioral Economics](https://goo.gl/maps/8Q9ox5Rp9342).
+
+```{r, echo=FALSE}
+busara <- read_excel("data/location-busara.xlsx")
+
+knitr::kable(
+  busara,
+  booktabs = TRUE,
+  caption = "Birds at the Busara Center"
+)
+
+```
+
+
 
 
 ## Karura Forest
