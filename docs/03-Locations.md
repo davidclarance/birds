@@ -13,10 +13,10 @@ List of birds I've found on [Kunde Road](https://goo.gl/maps/23BTYjYjdHU2).
 
 ## Busara Center
 
-List of birds I've found near the [Busara Center for Behavioral Economics](https://goo.gl/maps/8Q9ox5Rp9342).
+List of birds I've found near the [Busara Center for Behavioral Economics](https://goo.gl/maps/8Q9ox5Rp9342). 
 
 
-Table: (\#tab:unnamed-chunk-2)Birds at the Busara Center
+Table: (\#tab:unnamed-chunk-2)Total species count --  16
 
 Common Name                   Scientific Name               Notes                                                                                                                                                                  
 ----------------------------  ----------------------------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
