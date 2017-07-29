@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   split_by: chapter
+  scroll_highlight: yes
   config:
     toc:
       collapse: subsection
@@ -8,6 +9,23 @@ bookdown::gitbook:
         <li><a href="./">David's Bird Lists</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    toolbar:
+      position: fixed
+    edit : null
+    download: null
+    search: yes
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+    sharing:
+      facebook: yes
+      twitter: yes
+      google: no
+      weibo: no
+      instapper: no
+      vk: no
+      all: ['facebook', 'google', 'twitter', 'weibo', 'instapaper']
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
