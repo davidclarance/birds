@@ -87,6 +87,12 @@ library(xtable)
 ![Karura Forest, July 2017](birdpics/long-crested-eagle.jpg)
 
 
+## Yellow-Necked Spurfowl
+
+![Samburu, October 2017](birdpics/yellow-necked-spurfowl.jpg)
+
+
+
 
 
 
