@@ -91,6 +91,87 @@ library(xtable)
 
 ![Samburu, October 2017](birdpics/yellow-necked-spurfowl.jpg)
 
+## Grey Heron
+
+![Nairobi National Park, February 2017](birdpics/grey-heron.jpg)
+
+
+## Saddle Billed Stork
+
+![Nairobi National Park, February 2017](birdpics/saddle-billed-stork.jpg)
+
+## Masai Ostrich (female)
+
+![Nairobi National Park, February 2017](birdpics/masai-ostrich-female.jpg)
+
+## White Headed Barbet
+
+![Nairobi National Park, February 2017](birdpics/white-headed-barbet.jpg)
+
+
+## Kori Bustard
+
+![Nairobi National Park, February 2017](birdpics/kori-bustard.jpg)
+
+## African Spoonbill
+
+![Nairobi National Park, February 2017](birdpics/african-spoonbill.jpg)
+
+
+## Helmeted Guineafowl
+
+
+![Naivsaha, March 2017](birdpics/helmeted-guineafowl.jpg)
+
+## Black Winged Stilt
+
+
+![Naivsaha, March 2017](birdpics/black-winged-stilt.jpg)
+
+## African Rail 
+
+
+![Nairobi National Park, March 2017](birdpics/african-rail.jpg)
+
+
+## Rufous Naped Lark
+
+
+![Nairobi National Park, March 2017](birdpics/rufous-naped-lark.jpg)
+
+
+## Red-eyed Dove
+
+![Nairobi National Park, March 2017](birdpics/red-eyed-dove.jpg)
+
+
+## Lilac Breasted Roller
+
+![Nairobi National Park, March 2017](birdpics/lilac-breasted-roller.jpg)
+
+## Yellow Fronted Canary
+
+![Mida Creek, May 2017](birdpics/yellow-fronted-canary.jpg)
+
+
+## Chin Spotted Batis
+
+![Mida Creek, May 2017](birdpics/chin-spoted-batis.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
