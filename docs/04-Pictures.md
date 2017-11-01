@@ -2,19 +2,14 @@
 
 This section contains some of my pictures of birds across Kenya. 
 
-```{r include=FALSE, echo=FALSE}
-library(tidyverse)
-library(readxl)
-library(xtable)
 
-```
 
 
 ## Pygymy Falcon
 
 ![Samburu, October 2017](birdpics/pgymy-falcon.jpg)
 
-## Von der Decken's Hornbill
+## Speckled Pigeon
 
 ![Samburu, October 2017](birdpics/von-der-deckens-hornbill.jpg)
 
@@ -28,11 +23,4 @@ library(xtable)
 ![Samburu, October 2017](birdpics/speckled-pigeon.jpg)
 
 
-## Eastern Chanting-Goshawk
-
-![Samburu, October 2017](birdpics/eastern-chanting-goshawk.jpg)
-
-## Northern White Crowned Shrike
-
-![Samburu, October 2017](birdpics/northern-white-crowned-shrike.jpg)
-
+## 
