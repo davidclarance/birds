@@ -1,0 +1,12 @@
+# Pictures of birds
+
+This section contains some of my pictures of birds across Kenya. 
+
+```{r include=FALSE, echo=FALSE}
+library(tidyverse)
+library(readxl)
+library(xtable)
+
+```
+
+
