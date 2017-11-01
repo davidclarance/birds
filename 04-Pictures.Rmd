@@ -23,6 +23,17 @@ library(xtable)
 ![Samburu, October 2017](birdpics/red-billed-hornbill.jpg)
 
 
+## Vulturine Guineafowl
+
+![Mpala Research Center, March 2017](birdpics/vulturine-guineafowl.jpg)
+
+
+
+## Red-billed Hornbill Pair
+
+![Samburu, October 2017](birdpics/red-billed-hornbill-pair.jpg)
+
+
 ## Speckled Pigeon
 
 ![Samburu, October 2017](birdpics/speckled-pigeon.jpg)
@@ -35,15 +46,50 @@ library(xtable)
 ## Northern White Crowned Shrike
 
 ![Samburu, October 2017](birdpics/northern-white-crowned-shrike.jpg)
+
+
 ## Steppe Eagle
 
 ![Samburu, October 2017](birdpics/steppe-eagle.jpg)
 
 ## Grey Headed Kingfisher
 
-![Samburu, October 2017](birdpics/grey-headed-kingfisher.jpg)
+![Mpala Research Center, March 2017](birdpics/grey-headed-kingfisher.jpg)
 
 ## Brown Snake Eagle
 
 ![Samburu, October 2017](birdpics/brown-snake-eagle.jpg)
+
+## White Headed Buffalo Weaver
+
+![Samburu, October 2017](birdpics/white-headed-buffalo-weaver.jpg)
+
+## African Hoopoe
+
+![Samburu, October 2017](birdpics/african-hoopoe.jpg)
+
+## Laughing Dove
+
+![Mpala Research Center, March 2017](birdpics/laughing-dove.jpg)
+
+## Superb Starling
+
+![Mpala Research Center, March 2017](birdpics/superb-starling.jpg)
+
+
+## White Bellied Go Away Bird
+
+![Mpala Research Center, March 2017](birdpics/white-bellied-go-away-bird.jpg)
+
+
+## Long Crested Eagle
+
+![Karura Forest, July 2017](birdpics/long-crested-eagle.jpg)
+
+
+
+
+
+
+
 
