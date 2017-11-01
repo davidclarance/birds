@@ -35,4 +35,15 @@ library(xtable)
 ## Northern White Crowned Shrike
 
 ![Samburu, October 2017](birdpics/northern-white-crowned-shrike.jpg)
+## Steppe Eagle
+
+![Samburu, October 2017](birdpics/steppe-eagle.jpg)
+
+## Grey Headed Kingfisher
+
+![Samburu, October 2017](birdpics/grey-headed-kingfisher.jpg)
+
+## Brown Snake Eagle
+
+![Samburu, October 2017](birdpics/brown-snake-eagle.jpg)
 
